@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td style="background-color:#e6f7ff; text-align:center;">
-      <img src="https://github.com/reneebichler/visualize_tempo_data/blob/main/Plots/TEMPO_H_TVC_20240113T22_crop_AOI_BO_City_ID_1.gif" width="500" height="700"/>
+      <img src="https://github.com/reneebichler/visualize-tempo-data/blob/main/Plots/TEMPO_H_TVC_20240113T22_crop_AOI_BO_City_ID_1.gif" width="500" height="700"/>
     </td>
   </tr>
 </table>
