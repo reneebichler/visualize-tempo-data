@@ -52,7 +52,7 @@ A code that starts with "00_" was set up for additional functions or settings.
 <!-- CONTACT -->
 ## Contact
 
-Renée Bichler - rbichler@unc.edu; renee.bichler@uni-a.de
+Renée Bichler - renee.bichler@uni-a.de
 
 LinkedIn: https://www.linkedin.com/in/ren%C3%A9e-bichler-66782474/
 
